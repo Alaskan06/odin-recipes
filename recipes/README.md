@@ -1,0 +1,1 @@
+# odin-recipes This project is meant to test out beginner HTML skills. I have completed previous HTML certs with freeCodeCamp and I am using this to test out my git and github knowledge. These tools were not used in freeCodeCamp and their site offered its own complier and text writing software.
