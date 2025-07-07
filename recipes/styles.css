@@ -1,0 +1,12 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
+}
+body {
+    background-color: #eff;
+}
+
+li {
+   margin: 5px;
+   color: rgb(3, 3, 27)
+}
